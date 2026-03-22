@@ -1,0 +1,6 @@
+GROQ_API_KEY=your_groq_api_key
+DEFAULT_LLM=your_default_llm
+DEFAULT_TEMPERATURE=your_default_temperature
+DATASET_PATH=your_dataset_path
+MODEL_PATH=your_model_path
+OTEL_SDK_DISABLED=true

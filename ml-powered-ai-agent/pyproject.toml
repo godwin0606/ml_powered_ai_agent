@@ -1,0 +1,18 @@
+[project]
+name = "ml-powered-ai-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "crewai>=0.193.2",
+    "joblib>=1.5.2",
+    "numpy>=2.3.3",
+    "pandas>=2.3.2",
+    "pydantic>=2.11.9",
+    "pydantic-settings>=2.11.0",
+    "pymongo>=4.11.0",
+    "python-dotenv>=1.1.1",
+    "scikit-learn>=1.7.2",
+    "streamlit>=1.50.0",
+]

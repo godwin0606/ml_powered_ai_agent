@@ -1,0 +1,14 @@
+
+create .env file with required values
+
+get groq_api_key form Groq Console
+
+pip install -r requirements.txt
+
+python ml_src/train_diabetes_model.py
+
+python ml_src/predict_diabetes.py
+
+python agents_src/main.py
+
+streamlit run streamlit_src/app.py
